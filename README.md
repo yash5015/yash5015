@@ -15,7 +15,7 @@
 - 📄 &nbsp;Please have a look at my [Portfolio](https://yash5015.github.io/) for more details about me. Feel free to share feedback and suggestions!
 
 
-<img alt="Coding" src="https://github.com/YUGANSHCHAUHAN/YUGANSHCHAUHAN/blob/master/assets/coding-freak.gif" align="right" width =300/>
+<img alt="Coding" src="https://github.com/yash5015/yash5015/blob/main/assets/coding-freak.gif" align="right" width =300/>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
@@ -50,8 +50,8 @@
 <a href="https://www.instagram.com/yashrathor01/"><img src="https://img.shields.io/badge/-%40yashrathor01-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/15549186/yash-rathor"><img src="https://img.shields.io/badge/-user%3A15603177-orange?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 
- 
-<a href="https://www.codechef.com/users/yashrathor5015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yashrathor5015" height="30" width="40" /></a>
+
+<a href="https://www.codechef.com/users/yashrathor5015" target="blank"><img align="center" src="https://github.com/yash5015/yash5015/blob/main/assets/codechef.png" alt="https://www.codechef.com/users/yashrathor5015" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashrathor5015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/yashrathor5015" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashrathor5015/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/yashrathor5015" height="30" width="40" /></a>
 </p>
