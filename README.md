@@ -13,7 +13,7 @@
 - 📄 &nbsp;Please have a look at my [Portfolio](https://yash5015.github.io/) for more details about me. Feel free to share feedback and suggestions!
 
 
-<img alt="Coding" src="https://github.com/yash5015/yash5015/blob/main/assets/coding-freak.gif" align="right" width =300/>
+<img alt="Coding" src="https://github.com/yash5015/yash5015/blob/main/assets/coding-freak.gif" align="right" height=250px  width =300/>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
