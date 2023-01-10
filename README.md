@@ -15,7 +15,7 @@ Hello Everyone! I'm Yash Kumar, pursuing Btech from ABESIT, Ghaziabad. I'm Alway
 
 Stats
 
-![Yash's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yash5015&theme=merko)
+![Yash's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=yash5015&theme=merko)
 | ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash5015&show_icons=true&theme=merko) | ![Yash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash5015&theme=merko) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash5015&langs_count=8&theme=merko) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=yash5015&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=merko) |
