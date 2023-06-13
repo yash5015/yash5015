@@ -15,7 +15,7 @@ Hello Everyone! I'm Yash Kumar, pursuing Btech from ABESIT, Ghaziabad. I'm Alway
 
 Stats
 
-![Yash's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=yash5015&theme=merko)
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5015&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 | ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash5015&show_icons=true&theme=merko) | ![Yash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash5015&theme=merko) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash5015&langs_count=8&theme=merko) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=yash5015&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=merko) |
@@ -25,8 +25,8 @@ Stats
 ## 📞 Connect with Me
 
  <p align="left" margin-top="10px">
-<a href="https://www.linkedin.com/in/yash-kumar-452821193/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="40"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yashrathor5015@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/yash-kumar-452821193/" style="margin-right: 20px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="40"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yashrathor5015@gmail.com" style="margin-right: 20px"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40"/></a>
 <a href="https://www.instagram.com/yashrathor01/"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="30" width="40"/></a> 
 </p>
 <hr>
