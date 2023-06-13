@@ -3,11 +3,10 @@
 
 
 
-Hello Everyone! I'm Yash Kumar, pursuing Btech from ABESIT, Ghaziabad. I'm Always willing to innovate new things which can improve existing technology. I am looking for an opportunity in the organization where I could put all my skills and abilities for the betterment of the organization along with self-growth as a person. 
+Hello Everyone! I'm Yash Kumar, just completed Btech from ABESIT, Ghaziabad. I'm Always willing to innovate new things which can improve existing technology. I am looking for an opportunity in the organization where I could put all my skills and abilities for the betterment of the organization along with self-growth as a person. 
 
-- 🔭 I’m currently working on HTML5, CSS3, JavaScript,  Django, ReactJS.
-- 🌱 I’m currently learning Full Stack Development.
-- 👯 I’m looking to collaborate on Projects,Tech Articles.
+- 🔭 Full Stack Web Developer(ReactJs, Django) and Mobile Development(React Naitve). 
+- 👯 looking to collaborate on Projects,Tech Articles.
 - 💬 Talk to me about Problem Solving, Web Development, Open Source.
 - 😄 Words that describe me - Self-motivated, Optimistic, Punctual, Kind, Joyful😀.
 - 📄  Please have a look at my [Portfolio](https://yash5015.github.io/). Feel free to share feedback and suggestions!
@@ -24,9 +23,9 @@ Stats
 
 ## 📞 Connect with Me
 
- <p align="left" margin-top="10px">
-<a href="https://www.linkedin.com/in/yash-kumar-452821193/" style="margin-right: 20px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="40"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yashrathor5015@gmail.com" style="margin-right: 20px"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40"/></a>
+ <p align="left" style="margin-right: 10px;">
+<a href="https://www.linkedin.com/in/yash-kumar-452821193/" style="margin-right: 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="40"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yashrathor5015@gmail.com" style="margin-right: 20px;"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40"/></a>
 <a href="https://www.instagram.com/yashrathor01/"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="30" width="40"/></a> 
 </p>
 <hr>
